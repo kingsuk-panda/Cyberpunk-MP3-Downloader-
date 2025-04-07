@@ -1,10 +1,10 @@
-# 🎵 Cyberpunk MP3 Downloader 🚀
+# 🎵 Cyberpunk MP3 Downloader
 
 Cyberpunk MP3 Downloader is a sleek, console-based YouTube video and playlist downloader that extracts audio and saves it as MP3 files. With a cyberpunk-inspired UI powered by `rich`, this tool ensures a smooth and aesthetic experience.
 
 ---
 
-## 🚀 Features
+## Features
 - Download **YouTube videos** as MP3
 - Download **entire playlists** as MP3
 - Set a **custom download folder**
@@ -13,7 +13,7 @@ Cyberpunk MP3 Downloader is a sleek, console-based YouTube video and playlist do
 
 ---
 
-## 🔧 Requirements
+## Requirements
 
 ### 1. **Install Python 3**
 Ensure you have Python installed:
@@ -48,7 +48,7 @@ pip install yt-dlp rich
 
 ---
 
-## 🎮 Usage
+## Usage
 
 ### **1. Run the Script**
 Navigate to the script’s folder and run:
@@ -86,7 +86,7 @@ python cyberpunk_mp3_downloader.py
 
 ---
 
-## 📂 Where Are the Files Saved?
+## Where Are the Files Saved?
 By default, MP3 files are saved in:
 📂 **Linux/macOS** → `~/Desktop/Gen/Music/`  
 📂 **Windows** → `C:\Users\YourName\Desktop\Gen\Music\`  
@@ -95,7 +95,7 @@ If downloading a **playlist**, the files will be organized in a subfolder named 
 
 ---
 
-## ❓ Troubleshooting
+## Troubleshooting
 
 ### **1. Command Not Found Errors**
 - If `yt-dlp` is not found, install it:
@@ -121,7 +121,7 @@ If downloading a **playlist**, the files will be organized in a subfolder named 
 
 ---
 
-## 🌟 Final Notes
+## Final Notes
 💖 Enjoy high-quality MP3 downloads with ease! If you run into issues, check the dependencies and ensure your URLs are correct. 🎧  
 
 🛸 **Exiting... Stay Groovy!** 🛸  
