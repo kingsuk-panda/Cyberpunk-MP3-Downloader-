@@ -125,4 +125,3 @@ If downloading a **playlist**, the files will be organized in a subfolder named 
 💖 Enjoy high-quality MP3 downloads with ease! If you run into issues, check the dependencies and ensure your URLs are correct. 🎧  
 
 🛸 **Exiting... Stay Groovy!** 🛸  
-
